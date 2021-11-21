@@ -1,6 +1,6 @@
-## KFC Landing Page
+## TWT Landing Page
 
-### This is a fictional HTML & CSS based responsive fullscreen landing page for the KFC company.
+### This is a fictional HTML & CSS based responsive fullscreen landing page for the TWT.
 
 #### Technologies
 * HTML5
@@ -10,4 +10,4 @@
 * Responsive
 * Manual Slider
 
-### You are welcome to update these source codes if they contain any miss matches.
+
